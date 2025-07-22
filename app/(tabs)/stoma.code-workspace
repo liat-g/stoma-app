@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Downloads/react-native-movie-app-main/constants"
+		},
+		{
+			"path": "../../../Downloads/react-native-movie-app-main/interfaces"
+		}
+	],
+	"settings": {}
+}
